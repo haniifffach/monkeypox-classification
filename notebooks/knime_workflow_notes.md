@@ -75,4 +75,4 @@ Each model was evaluated using:
 
 ---
 
-*Created by Hanif Fachrizal & Team – Universitas BSI | 2024*
+*Created by Hanif Fachrizal & Team – Universitas Bina Sarana Informatika | 2024*
