@@ -22,3 +22,7 @@ This project compares three classification algorithms—Naive Bayes, Logistic Re
 | Random Forest       | 66.43%   | 0.891   |
 
 ## 📂 Project Structure
+- `data/` : Sample dataset
+- `notebooks/` : Workflow notes
+- `results/` : Evaluation output
+- `report/` : Final project report (PDF)
