@@ -52,20 +52,15 @@ Each model was evaluated using:
 
 ## 📈 Results Summary
 
-| Algorithm           | Accuracy | AUC     |
-|---------------------|----------|---------|
-| Naive Bayes         | 69.73%   | ~0.89   |
-| Logistic Regression | 66.60%   | ~0.87   |
-| Random Forest       | 66.43%   | **0.891**
+| Algorithm           | Accuracy | AUC      |
+|---------------------|----------|----------|
+| Naive Bayes         | 69.73%   | **0.89** |
+| Logistic Regression | 66.60%   | **0.87** |
+| Random Forest       | 66.43%   | **0.891**|
 
 - Naive Bayes had the highest accuracy.
 - Random Forest achieved the best AUC performance.
 
----
-
-## 📌 Screenshot of Workflow (Add your image here)
-
-> ![KNIME Workflow Screenshot](../results/knime_workflow_screenshot.png)
 
 ---
 
